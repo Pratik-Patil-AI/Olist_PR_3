@@ -111,7 +111,7 @@ The project uses the **Olist Brazilian E-Commerce Public Dataset**, which contai
 ```
 📦 Olist-PowerBI-Dashboard
 │
-├── PR_3.pbix
+├── PR_3_Dashboard.pbix
 ├── README.md
 └── Images
     ├── Sales-Overview.png
